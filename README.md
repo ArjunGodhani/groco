@@ -1,0 +1,3 @@
+# groco
+I am make online grocery shopping static web ui with responsive........ 
+![screencapture-file-C-Users-DELL-Desktop-groco-index-html-2022-09-21-22_30_00](https://user-images.githubusercontent.com/111860713/191566524-58286246-97f0-477d-8cbb-50e3e61d9a11.png)
